@@ -1,5 +1,5 @@
 # Pomodoro 番茄鐘
-
+![image](https://github.com/clay-cchuang/Pomodoro/blob/main/Pomodoro.png)
 本專案設計了一個輕巧化的番茄鐘，提供辦公族可以輕鬆紀錄自己的工作情況，首先先介紹一下番茄鐘工作法則。
 番茄鐘（Pomodoro Technique）是一種時間管理和工作效率方法，最初由弗朗西斯科·西里洛（Francesco Cirillo）在上世紀80年代創立。它的名字來源於一個番茄形狀的廚房定時器。番茄鐘的基本概念很簡單：
 
